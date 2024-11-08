@@ -1,6 +1,6 @@
-# helloworld
+# sans-app
 
-A new Flutter project.
+Project for Gemastik XVII Smart City City Competition
 
 ## Getting Started
 

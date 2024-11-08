@@ -1,6 +1,6 @@
 # sans-app
 
-Project for Gemastik XVII Smart City City Competition
+Project for Gemastik XVII Smart City Competition
 
 ## Getting Started
 
